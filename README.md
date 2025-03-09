@@ -1,4 +1,4 @@
-## Pygame: Upgraded draw_text ( ) Function
+## Pygame: Title
 
 Please see the wiki at the top of your GitHub window.
 
