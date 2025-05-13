@@ -45,18 +45,18 @@ Answer these questions about the code snippet:
 
 1. What is the relationship between the Human and AI classes?
    
-3. How does the `__init__()` method in the AI class use the `super()` function?
+2. How does the `__init__()` method in the AI class use the `super()` function?
    
-5. What is the purpose of the `think()` and `communicate()` methods in both the Human and AI classes?
+3. What is the purpose of the `think()` and `communicate()` methods in both the Human and AI classes?
    
-7. How does the output of the `think()` and `communicate()` methods differ between the Human and AI instances?
+4. How does the output of the `think()` and `communicate()` methods differ between the Human and AI instances?
    
-9. What is the purpose of the `learn()` method in the AI class?
+5. What is the purpose of the `learn()` method in the AI class?
     
-11. Which attributes will the AI class get/grab from the Human class?
+6. Which attributes will the AI class get/grab from the Human class?
     
-13. Which attribute belongs specifically to the AI class?
+7. Which attribute belongs specifically to the AI class?
     
-15. How many attributes **total** will an instance of the AI class have?
+8. How many attributes **total** will an instance of the AI class have?
 
 ---
