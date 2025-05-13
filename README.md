@@ -10,4 +10,6 @@ We'll work with:
 
 The `super()` function will be added to our child class.
 
+REMEMBER: The word **super** in the `super()` function refers to the **super**class (AKA the **parent** class).
+
 
