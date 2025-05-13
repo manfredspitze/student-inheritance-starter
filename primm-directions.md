@@ -66,6 +66,7 @@ Answer these questions about the code snippet:
 5. What is the purpose of the `learn()` method in the AI class?
 6. Which attributes will the AI class get/grab from the Human class?
 7. Which attribute belongs specifically to the AI class?
+8. How many attributes **total** will an instance of the AI class have?
 
 ---
 
