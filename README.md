@@ -1,5 +1,13 @@
-## Pygame: Title
+## Python Inheritance
 
-Please see the wiki at the top of your GitHub window.
+Today we'll use the PRIMM method for learning programming to learn more about inheritance in Python.
 
-The wiki contains examples and instructions for this practice project.
+We'll work with:
+
+- a parent class
+- a child class
+- the `super()` function
+
+The `super()` function will be added to our child class.
+
+
